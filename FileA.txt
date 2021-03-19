@@ -1,1 +1,2 @@
 "This is the file A" 2
+version 3
